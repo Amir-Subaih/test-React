@@ -14,5 +14,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # Push to Github
 
 git remote add origin https://github.com/Amir-Subaih/test-React.git
+
 git branch -M main
+
 git push -u origin main
